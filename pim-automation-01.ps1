@@ -3,7 +3,7 @@ $VerbosePreference = "SilentlyContinue"
 # Login to Azure and Microsoft Graph
 try {
     Write-Output "Logging in to Azure..."
-    Connect-AzAccount -Identity -SubscriptionId "6568220f-c927-40c3-9ab9-e681106aec28" | out-null
+    Connect-AzAccount -Identity | out-null
     Write-Output "Connecting to Microsoft Graph..."
     Connect-MgGraph -Identity -NoWelcome
     Write-Output "Details of current session:"
