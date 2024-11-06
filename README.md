@@ -13,5 +13,5 @@ File "pim-automation-01.ps1" is an Azure Automation Runbook.
 
 <div align="center">
   <img src="https://github.com/ptsouk/PIM-Automation/blob/main/Drawing1.jpg?raw=true"
-  width="600" height="300"/>
+  width="800" height="600"/>
 </div>
