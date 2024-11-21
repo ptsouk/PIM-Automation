@@ -1,7 +1,7 @@
 {
     "properties": {
         "roleName": "Create-ResourceGroups",
-        "description": "",
+        "description": "Permission to create resource groups",
         "assignableScopes": [
             "/providers/Microsoft.Management/managementGroups/14e70b92-5869-4bb1-ad34-a4c8eba99297"
         ],
