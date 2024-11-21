@@ -1,0 +1,20 @@
+{
+    "id": "/subscriptions/6568220f-c927-40c3-9ab9-e681106aec28/providers/Microsoft.Authorization/roleDefinitions/c3d9345e-5798-4d21-b3f2-236ec9c9e56a",
+    "properties": {
+        "roleName": "Create-ResourceGroups",
+        "description": "",
+        "assignableScopes": [
+            "/providers/Microsoft.Management/managementGroups/14e70b92-5869-4bb1-ad34-a4c8eba99297"
+        ],
+        "permissions": [
+            {
+                "actions": [
+                    "Microsoft.Resources/subscriptions/resourceGroups/write"
+                ],
+                "notActions": [],
+                "dataActions": [],
+                "notDataActions": []
+            }
+        ]
+    }
+}
